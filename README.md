@@ -4,7 +4,6 @@ Com base em revisões bibliográficas e em testes realizados com as versões dis
 # Uso
 ```
 python grabcut-interativo.py imagem.extensão
-
 ```
 **Exemplo:** python3 grabcut-interativo.py carros.jpg
 
